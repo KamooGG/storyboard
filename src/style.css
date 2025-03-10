@@ -54,7 +54,15 @@ h1 {
 }
 
 .card img {
-  width: 400px;
+  width: 640px;
+  height: 400px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.imgContainer {
+  width: 640px;
+  height: 400px;
   border-radius: 8px;
 }
 
